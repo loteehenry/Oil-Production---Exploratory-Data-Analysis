@@ -205,3 +205,6 @@ Contributions are welcome if they improve the analysis, add more rigorous cleani
 ## Contact
 
 For questions or collaboration opportunities, please open an issue or contact the repository maintainer through the GitHub project page.
+
+## Project Status: In Progress
+Data loading, inspection, cleaning, and preparation have been completed. Exploratory analysis is currently underway.
