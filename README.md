@@ -41,13 +41,6 @@ Oil-Production---Exploratory-Data-Analysis/
 │       └── NUPRC_2026_production_cleaned.csv
 ├── notebooks/
 │   └── analysis.ipynb
-├── learning_notebooks/
-│   ├── sample.csv
-│   ├── output.csv
-│   ├── week1-practice.ipynb
-│   ├── week1-practice-numpy.ipynb
-│   ├── week1-practice-pandas.ipynb
-│   └── automate-the-boring-stuff-practice.ipynb
 └── .venv/
 ```
 
