@@ -30,6 +30,7 @@ Oil-Production---Exploratory-Data-Analysis/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
+├── charts/
 ├── data/
 │   ├── raw/
 │   │   ├── NUPRC_2024_production_raw.csv
